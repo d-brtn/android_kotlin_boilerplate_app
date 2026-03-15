@@ -38,8 +38,8 @@ publishing {
             }
 
             pom {
-                description.set("A template for Kotlin Android projects")
-                url.set("https://github.com/cortinico/kotlin-android-template/")
+                description.set("A Kotlin Android boilerplate application")
+                url.set("https://github.com/d-brtn/android_kotlin_boilerplate_app/")
 
                 licenses {
                     license {
@@ -49,18 +49,18 @@ publishing {
                 }
                 developers {
                     developer {
-                        id.set("cortinico")
-                        name.set("Nicola Corti")
+                        id.set("dbrtn")
+                        name.set("dbrtn")
                     }
                 }
                 scm {
-                    connection.set("scm:git:git://github.com/cortinico/kotlin-android-template.git")
-                    developerConnection.set("scm:git:ssh://github.com/cortinico/kotlin-android-template.git")
-                    url.set("https://github.com/cortinico/kotlin-android-template/")
+                    connection.set("scm:git:git://github.com/d-brtn/android_kotlin_boilerplate_app.git")
+                    developerConnection.set("scm:git:ssh://github.com/d-brtn/android_kotlin_boilerplate_app.git")
+                    url.set("https://github.com/d-brtn/android_kotlin_boilerplate_app/")
                 }
                 issueManagement {
                     system.set("GitHub Issues")
-                    url.set("https://github.com/cortinico/kotlin-android-template/issues")
+                    url.set("https://github.com/d-brtn/android_kotlin_boilerplate_app/issues")
                 }
             }
         }
