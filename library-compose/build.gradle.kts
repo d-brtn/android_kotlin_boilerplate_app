@@ -14,7 +14,7 @@ android {
 
     defaultConfig {
         minSdk = libs.versions.min.sdk.version.get().toInt()
-        namespace = "com.ncorti.kotlin.template.library.compose"
+        namespace = "com.dbrtn.androidkotlinboilerplateapp.library.compose"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 
