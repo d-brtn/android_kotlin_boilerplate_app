@@ -4,7 +4,8 @@ import android.content.Intent
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import com.dbrtn.androidkotlinboilerplateapp.app.databinding.ActivityMainBinding
+import com.dbrtn.androidkotlinboilerplateapp.R
+import com.dbrtn.androidkotlinboilerplateapp.databinding.ActivityMainBinding
 import com.dbrtn.androidkotlinboilerplateapp.library.FactorialCalculator
 import com.dbrtn.androidkotlinboilerplateapp.library.android.ToastUtil
 
